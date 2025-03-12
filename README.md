@@ -67,3 +67,8 @@ For issues or contributions, create a GitHub issue or reach out to the repositor
 
 Happy Cleaning! 🚀
 
+## Demo
+
+[📹 Watch Demo Video](https://drive.google.com/file/d/1D6jhV3ye8XVBA-XLKpgu46IaFwrI7wqY/view?usp=sharing)
+
+
